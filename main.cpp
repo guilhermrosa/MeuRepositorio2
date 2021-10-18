@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-void imprimirAlice(){
+void imprimirBob(){
 
 }
 
-void imprimirBob(){
+
+void imprimirAlice(){
 
 }
 
