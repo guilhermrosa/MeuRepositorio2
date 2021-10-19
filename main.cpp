@@ -10,5 +10,6 @@ void imprimirBob(){
 }
 
 int main(){
+	imprimirBob();
     return 0;
 }
