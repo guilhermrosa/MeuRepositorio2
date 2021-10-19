@@ -15,5 +15,6 @@ void imprimirHelloWorld(){
 }
 
 int main(){
+	imprimirAl1ce();
     return 0;
 }
