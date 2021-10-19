@@ -11,7 +11,7 @@ void imprimirBob(){
 
 
 void imprimirHelloWorld(){
-	printf("Hello World"); 
+	printf("HelloWorld"); 
 }
 
 int main(){
