@@ -9,6 +9,11 @@ void imprimirBob(){
 	printf("Bob");
 }
 
+
+void imprimirHelloWorld(){
+	
+}
+
 int main(){
     return 0;
 }
